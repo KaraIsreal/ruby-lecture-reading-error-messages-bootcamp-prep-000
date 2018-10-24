@@ -1,3 +1,1 @@
-var "hello world" = ;
-
-hello_world
+var x = "hello world";
